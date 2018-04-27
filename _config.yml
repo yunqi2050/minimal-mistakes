@@ -273,6 +273,7 @@ defaults:
       path: ""
       type: pages
     values:
+      layout: single
       sidebar:
         nav: "docs"
   # _docs
@@ -280,6 +281,7 @@ defaults:
       path: ""
       type: docs
     values:
+      layout: single
       sidebar:
         nav: "docs"
 # theme: jekyll-theme-minimal
