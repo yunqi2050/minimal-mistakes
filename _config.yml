@@ -97,12 +97,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "2050 Contributors"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Yunqi, Hangzhou"
   email            :
-  uri              :
+  uri              : "https://www.yunqi2050.org/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -266,5 +266,11 @@ defaults:
       comments: false # true
       share: false
       related: false
-
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 # theme: jekyll-theme-minimal
