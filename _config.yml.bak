@@ -11,18 +11,18 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "2050"
+locale                   : "en-US"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "2050 Contributors"
-description              : "Docs for 2050Con. May 25-27th, Hangzhou, China"
-url                      : "https://yunqi2050.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "yunqi2050/yunqi2050.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -261,10 +261,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
-      read_time: false
-      comments: false # true
-      share: false
-      related: false
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
 
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
