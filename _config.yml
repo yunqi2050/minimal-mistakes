@@ -266,6 +266,15 @@ defaults:
       comments: false # true
       share: false
       related: false
+      sidebar:
+        nav: "docs"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sidebar:
+        nav: "docs"
   # _docs
   - scope:
       path: ""
