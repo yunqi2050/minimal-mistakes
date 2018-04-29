@@ -1,7 +1,9 @@
 # main links
 main:
- - title: "议程"
+ - title: "大会议程"
    url: /schedule/
+ - title: "大会官网"
+   url: https://yunqi2050.com/#/index
 
 docs:
   - title: Getting Started
