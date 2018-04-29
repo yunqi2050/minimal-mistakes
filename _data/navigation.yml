@@ -12,8 +12,8 @@ docs:
         url: /thank-you-letter/
       - title: "什么是志愿？"
         url: /what-is-volunteer/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "常见问题"
+        url: /faqs/
   - title: Customization
     children:
       - title: "Configuration"
