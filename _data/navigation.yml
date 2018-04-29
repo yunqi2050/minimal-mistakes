@@ -8,8 +8,8 @@ docs:
     children:
       - title: "什么是2050？"
         url: /what-is-2050/
-      - title: "Structure"
-        url: /docs/structure/
+      - title: "致2050志愿者的感谢信"
+        url: /thank-you-letter/
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
