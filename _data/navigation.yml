@@ -1,7 +1,7 @@
 # main links
 main:
- - title: "About"
-   url: /about/
+ - title: "议程"
+   url: /schedule/
 
 docs:
   - title: Getting Started
