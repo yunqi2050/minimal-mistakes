@@ -10,8 +10,8 @@ docs:
         url: /what-is-2050/
       - title: "致2050志愿者的感谢信"
         url: /thank-you-letter/
-      - title: "Installation"
-        url: /docs/installation/
+      - title: "什么是志愿？"
+        url: /what-is-volunteer/
       - title: "Upgrading"
         url: /docs/upgrading/
   - title: Customization
