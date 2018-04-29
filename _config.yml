@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "2050"
+title                    : "2050 Docs for Volunteers"
 title_separator          : "-"
-name                     : "2050 Contributors"
+name                     : "2050 Volunteers"
 description              : "Docs for 2050Con. May 25-27th, Hangzhou, China"
 url                      : "https://yunqi2050.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
