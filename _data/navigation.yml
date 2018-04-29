@@ -1,21 +1,13 @@
 # main links
 main:
-#  - title: "Quick-Start Guide"
-#    url: /docs/quick-start-guide/
  - title: "About"
    url: /about/
-#  - title: "Sample Posts"
-#    url: /year-archive/
-#  - title: "Sample Collections"
-#    url: /collection-archive/
-#  - title: "Terms &amp; Privacy Policy"
-#    url: /terms/
 
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "什么是2050？"
+        url: /what-is-2050/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
