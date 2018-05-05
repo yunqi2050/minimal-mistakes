@@ -16,3 +16,7 @@ docs:
         url: /what-is-volunteer/
       - title: "常见问题"
         url: /faqs/
+  - title: 2050攻略合集
+    children:
+      - title: "如何获取信息？"
+        url: /infocenter/
