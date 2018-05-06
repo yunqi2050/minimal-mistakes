@@ -20,3 +20,5 @@ docs:
     children:
       - title: "如何获取信息？"
         url: /infocenter/
+      - title: "一些有趣的内容更新#1"
+        url: /reunion-update-1/
